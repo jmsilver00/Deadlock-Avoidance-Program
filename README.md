@@ -3,7 +3,9 @@
 1) Copy the entire code from the file called "deadlock.c".
 2) Use an IDE that can run a code that is based of C (Example: Replit).
 3) Run the program/code, To compile in linux ubuntu:
+
    gcc deadlock.c
+   
    ./a.out
 
 In this assignment we are dealt with the problem of multiple procceses trying to access the same resource. This situation is called a Deadlock. Due to the action of the processes, they are preventing each other from acquiring the reasources. 
